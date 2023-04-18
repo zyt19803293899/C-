@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\BinaryReaderExample\bin\Debug\BinaryReaderExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\BinaryReaderExample\bin\Debug\BinaryReaderExample.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\BinaryReaderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\BinaryReaderExample\obj\x86\Debug\BinaryReaderExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\BinaryReaderExample\obj\x86\Debug\BinaryReaderExample.pdb

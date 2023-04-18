@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter11\EnumExample3\bin\Debug\EnumExample3.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter11\EnumExample3\bin\Debug\EnumExample3.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter11\EnumExample3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter11\EnumExample3\obj\x86\Debug\EnumExample3.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter11\EnumExample3\obj\x86\Debug\EnumExample3.pdb

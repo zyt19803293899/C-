@@ -1,0 +1,67 @@
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\bin\Debug\App17.exe
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\bin\Debug\App17.pdb
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\MainWindow.baml
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\MainWindow.g.cs
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App.g.cs
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App17_MarkupCompile.cache
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App17.g.resources
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App17.Properties.Resources.resources
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App17.exe
+C:\Users\budi2020\AppData\Local\Temporary Projects\App17\obj\x86\Debug\App17.pdb
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App17.exe
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App17.pdb
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\bin\Debug\App17.exe
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\bin\Debug\App17.pdb
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\MainWindow.baml
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\MainWindow.g.cs
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App.g.cs
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App17_MarkupCompile.cache
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App17.g.resources
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\App17.Properties.Resources.resources
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\123data\_MyBooks\c#Beginner\apps\App17\App17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.exe
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.pdb
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\bin\Debug\App17.exe
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\bin\Debug\App17.pdb
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\MainWindow.baml
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\MainWindow.g.cs
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App.g.cs
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17_MarkupCompile.cache
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.g.resources
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.Properties.Resources.resources
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\bin\Debug\App17.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\bin\Debug\App17.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\MainWindow.baml
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\MainWindow.g.cs
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17_MarkupCompile.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.g.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\App17.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\XamlApp1.baml
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17\App17\obj\x86\Debug\XamlApp1.g.cs
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\App17.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\App17.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\bin\Debug\App17.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\bin\Debug\App17.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\MainWindow.baml
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\XamlApp1.baml
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\MainWindow.g.cs
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\XamlApp1.g.cs
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\App17_MarkupCompile.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\App17.g.resources
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\App17.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17\obj\x86\Debug\GenerateResource.write.1.tlog

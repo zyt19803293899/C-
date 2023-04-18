@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberDoubler", "App08\NumberDoubler.csproj", "{EA3B9864-26FB-4786-B55D-E25F6C00B50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberParsing", "app08-1\NumberParsing.csproj", "{0A0F7B1E-F2D2-4E72-9339-0B6AE9592DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFormatting", "app08-2\NumberFormatting.csproj", "{E47CEC8D-6604-4C24-B484-CE9E3AA86C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFormatting", "app08-3\DateFormatting.csproj", "{95C9A69E-362E-4A99-8703-64A3754FEA1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateParsing", "DateParsing\DateParsing.csproj", "{563B71D5-BCD4-47EE-86B8-26B51092F0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureInfoExample", "CultureInfoExample\CultureInfoExample.csproj", "{E2F6C843-260A-48E2-B9AC-037BED03D915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpanExample", "TimeSpanExample\TimeSpanExample.csproj", "{50E2D566-39AC-49D0-9643-02CFD17AE5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExample", "DateTimeExample\DateTimeExample.csproj", "{7E50120D-E31D-4620-99E5-0DDFF74969CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3B9864-26FB-4786-B55D-E25F6C00B50A}.Debug|x86.ActiveCfg = Debug|x86
+		{EA3B9864-26FB-4786-B55D-E25F6C00B50A}.Debug|x86.Build.0 = Debug|x86
+		{EA3B9864-26FB-4786-B55D-E25F6C00B50A}.Release|x86.ActiveCfg = Release|x86
+		{EA3B9864-26FB-4786-B55D-E25F6C00B50A}.Release|x86.Build.0 = Release|x86
+		{0A0F7B1E-F2D2-4E72-9339-0B6AE9592DD1}.Debug|x86.ActiveCfg = Debug|x86
+		{0A0F7B1E-F2D2-4E72-9339-0B6AE9592DD1}.Debug|x86.Build.0 = Debug|x86
+		{0A0F7B1E-F2D2-4E72-9339-0B6AE9592DD1}.Release|x86.ActiveCfg = Release|x86
+		{0A0F7B1E-F2D2-4E72-9339-0B6AE9592DD1}.Release|x86.Build.0 = Release|x86
+		{E47CEC8D-6604-4C24-B484-CE9E3AA86C89}.Debug|x86.ActiveCfg = Debug|x86
+		{E47CEC8D-6604-4C24-B484-CE9E3AA86C89}.Debug|x86.Build.0 = Debug|x86
+		{E47CEC8D-6604-4C24-B484-CE9E3AA86C89}.Release|x86.ActiveCfg = Release|x86
+		{E47CEC8D-6604-4C24-B484-CE9E3AA86C89}.Release|x86.Build.0 = Release|x86
+		{95C9A69E-362E-4A99-8703-64A3754FEA1C}.Debug|x86.ActiveCfg = Debug|x86
+		{95C9A69E-362E-4A99-8703-64A3754FEA1C}.Debug|x86.Build.0 = Debug|x86
+		{95C9A69E-362E-4A99-8703-64A3754FEA1C}.Release|x86.ActiveCfg = Release|x86
+		{95C9A69E-362E-4A99-8703-64A3754FEA1C}.Release|x86.Build.0 = Release|x86
+		{563B71D5-BCD4-47EE-86B8-26B51092F0A0}.Debug|x86.ActiveCfg = Debug|x86
+		{563B71D5-BCD4-47EE-86B8-26B51092F0A0}.Debug|x86.Build.0 = Debug|x86
+		{563B71D5-BCD4-47EE-86B8-26B51092F0A0}.Release|x86.ActiveCfg = Release|x86
+		{563B71D5-BCD4-47EE-86B8-26B51092F0A0}.Release|x86.Build.0 = Release|x86
+		{E2F6C843-260A-48E2-B9AC-037BED03D915}.Debug|x86.ActiveCfg = Debug|x86
+		{E2F6C843-260A-48E2-B9AC-037BED03D915}.Debug|x86.Build.0 = Debug|x86
+		{E2F6C843-260A-48E2-B9AC-037BED03D915}.Release|x86.ActiveCfg = Release|x86
+		{E2F6C843-260A-48E2-B9AC-037BED03D915}.Release|x86.Build.0 = Release|x86
+		{50E2D566-39AC-49D0-9643-02CFD17AE5D9}.Debug|x86.ActiveCfg = Debug|x86
+		{50E2D566-39AC-49D0-9643-02CFD17AE5D9}.Debug|x86.Build.0 = Debug|x86
+		{50E2D566-39AC-49D0-9643-02CFD17AE5D9}.Release|x86.ActiveCfg = Release|x86
+		{50E2D566-39AC-49D0-9643-02CFD17AE5D9}.Release|x86.Build.0 = Release|x86
+		{7E50120D-E31D-4620-99E5-0DDFF74969CE}.Debug|x86.ActiveCfg = Debug|x86
+		{7E50120D-E31D-4620-99E5-0DDFF74969CE}.Debug|x86.Build.0 = Debug|x86
+		{7E50120D-E31D-4620-99E5-0DDFF74969CE}.Release|x86.ActiveCfg = Release|x86
+		{7E50120D-E31D-4620-99E5-0DDFF74969CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\123data\_MyBooks\c#Beginner\apps\Project04a\Project04a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\apps\Project04a\Project04a\bin\Debug\Project04a.exe
+C:\123data\_MyBooks\c#Beginner\apps\Project04a\Project04a\bin\Debug\Project04a.pdb
+C:\123data\_MyBooks\c#Beginner\apps\Project04a\Project04a\obj\x86\Debug\Project04a.exe
+C:\123data\_MyBooks\c#Beginner\apps\Project04a\Project04a\obj\x86\Debug\Project04a.pdb

@@ -1,0 +1,10 @@
+﻿<Window x:Class="SimpleDraw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Name="idwin"  Title="MainWindow" Height="350" Width="525" MouseDown="canvas1_MouseDown" MouseUp="canvas1_MouseUp" MouseMove="canvas1_MouseMove" >
+    <Grid Name="idgrid">
+        <RadioButton Content="Line" Height="16" HorizontalAlignment="Left" Margin="12,0,0,0" Name="radioButton1" VerticalAlignment="Top" IsChecked="True" Checked="radioButton1_Checked" />
+        <RadioButton Content="Oval" Height="16" HorizontalAlignment="Left" Margin="66,0,0,0" Name="radioButton2" VerticalAlignment="Top" Checked="radioButton2_Checked" />
+        <RadioButton Content="Rectangle" Height="16" HorizontalAlignment="Left" Margin="120,0,0,0" Name="radioButton3" VerticalAlignment="Top" Checked="radioButton3_Checked" />
+    </Grid>
+</Window>

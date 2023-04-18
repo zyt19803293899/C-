@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\QueueExamples\bin\Release\QueueExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\QueueExamples\bin\Release\QueueExamples.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\QueueExamples\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\QueueExamples\obj\x86\Release\QueueExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\QueueExamples\obj\x86\Release\QueueExamples.pdb

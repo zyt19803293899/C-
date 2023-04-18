@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\CultureInfoExample\bin\Debug\CultureInfoExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\CultureInfoExample\bin\Debug\CultureInfoExample.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\CultureInfoExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\CultureInfoExample\obj\x86\Debug\CultureInfoExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\CultureInfoExample\obj\x86\Debug\CultureInfoExample.pdb

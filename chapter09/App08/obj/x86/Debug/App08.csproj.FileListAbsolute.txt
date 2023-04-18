@@ -1,0 +1,7 @@
+C:\123data\_MyBooks\c#Beginner\apps\App08\App08\bin\Debug\App08.exe
+C:\123data\_MyBooks\c#Beginner\apps\App08\App08\bin\Debug\App08.pdb
+C:\123data\_MyBooks\c#Beginner\apps\App08\App08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\apps\App08\App08\obj\x86\Debug\App08.exe
+C:\123data\_MyBooks\c#Beginner\apps\App08\App08\obj\x86\Debug\App08.pdb
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\obj\x86\Debug\App08.exe
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\obj\x86\Debug\App08.pdb

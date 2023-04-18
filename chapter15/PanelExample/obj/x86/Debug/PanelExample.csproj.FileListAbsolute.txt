@@ -1,0 +1,8 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\bin\Debug\PanelExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\bin\Debug\PanelExample.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\PanelExample.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\PanelExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\PanelExample\obj\x86\Debug\PanelExample.pdb

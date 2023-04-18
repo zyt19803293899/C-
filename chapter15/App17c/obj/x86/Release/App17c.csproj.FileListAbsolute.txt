@@ -1,0 +1,13 @@
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\bin\Release\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\bin\Release\App17c.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App.g.cs
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App17c_MarkupCompile.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App17c.g.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App17c.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\App17c.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\MainWindow2.baml
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Release\MainWindow2.g.cs

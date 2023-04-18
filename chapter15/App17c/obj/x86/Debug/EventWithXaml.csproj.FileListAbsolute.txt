@@ -1,0 +1,4 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17c\obj\x86\Debug\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\App17c\obj\x86\Debug\App17c.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter15\App17c\obj\x86\Debug\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter15\App17c\obj\x86\Debug\App17c.pdb

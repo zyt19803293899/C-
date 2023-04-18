@@ -1,0 +1,7 @@
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\bin\Release\App08.exe
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\bin\Release\App08.pdb
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\obj\x86\Release\ResolveAssemblyReference.cache
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\obj\x86\Release\App08.exe
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\App08\obj\x86\Release\App08.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\App08\obj\x86\Release\App08.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter08\App08\obj\x86\Release\App08.pdb

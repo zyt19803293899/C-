@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter10\BaseClassExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter10\BaseClassExample\bin\Debug\BaseClassExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter10\BaseClassExample\bin\Debug\BaseClassExample.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter10\BaseClassExample\obj\x86\Debug\BaseClassExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter10\BaseClassExample\obj\x86\Debug\BaseClassExample.pdb

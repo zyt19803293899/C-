@@ -1,0 +1,9 @@
+C:\123data\_MyBooks\c#Beginner\apps\app03\app03\bin\Debug\app03.exe
+C:\123data\_MyBooks\c#Beginner\apps\app03\app03\bin\Debug\app03.pdb
+C:\123data\_MyBooks\c#Beginner\apps\app03\app03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\apps\app03\app03\obj\x86\Debug\app03.exe
+C:\123data\_MyBooks\c#Beginner\apps\app03\app03\obj\x86\Debug\app03.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter03\app03\obj\x86\Debug\app03.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter03\app03\obj\x86\Debug\app03.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter03\app03\bin\Debug\app03.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter03\app03\bin\Debug\app03.pdb

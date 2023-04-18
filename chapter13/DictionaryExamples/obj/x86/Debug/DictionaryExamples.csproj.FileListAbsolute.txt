@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\DictionaryExamples\bin\Debug\DictionaryExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\DictionaryExamples\bin\Debug\DictionaryExamples.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\DictionaryExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\DictionaryExamples\obj\x86\Debug\DictionaryExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\DictionaryExamples\obj\x86\Debug\DictionaryExamples.pdb

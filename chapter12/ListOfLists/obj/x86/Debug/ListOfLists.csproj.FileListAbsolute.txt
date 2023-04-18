@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ListOfLists\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ListOfLists\bin\Debug\ListOfLists.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ListOfLists\bin\Debug\ListOfLists.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ListOfLists\obj\x86\Debug\ListOfLists.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ListOfLists\obj\x86\Debug\ListOfLists.pdb

@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\HashSetExamples\bin\Debug\HashSetExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\HashSetExamples\bin\Debug\HashSetExamples.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\HashSetExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\HashSetExamples\obj\x86\Debug\HashSetExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter13\HashSetExamples\obj\x86\Debug\HashSetExamples.pdb

@@ -1,0 +1,13 @@
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\bin\Debug\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\bin\Debug\App17c.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App.g.cs
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App17c_MarkupCompile.cache
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App17c.g.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App17c.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App17c.exe
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\App17c.pdb
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\MainWindow2.baml
+C:\Users\budi2020\123data\_MyBooks\c#Beginner\chapters\apps\App17b\App17c\obj\x86\Debug\MainWindow2.g.cs

@@ -1,0 +1,13 @@
+﻿<Window x:Class="XamlExample2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel LastChildFill="True">
+        <Label Foreground="Green" Background="Bisque" DockPanel.Dock="Top"
+               Height="100" HorizontalContentAlignment="Center">Top</Label>
+        <Label Foreground="Red" Background="Beige" DockPanel.Dock="Left" 
+               Width="50" VerticalContentAlignment="Center">Left</Label>
+        <TextBlock Foreground="Blue" Background="AliceBlue" 
+                   DockPanel.Dock="Right">Right</TextBlock>
+    </DockPanel>
+</Window>

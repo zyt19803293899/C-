@@ -1,0 +1,8 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\bin\Debug\SimpleWPF1.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\bin\Debug\SimpleWPF1.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\SimpleWPF1.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\SimpleWPF1.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWPF1\obj\x86\Debug\SimpleWPF1.pdb

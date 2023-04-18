@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ConstraintExamples\bin\Debug\ConstraintExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ConstraintExamples\bin\Debug\ConstraintExamples.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ConstraintExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ConstraintExamples\obj\x86\Debug\ConstraintExamples.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter12\ConstraintExamples\obj\x86\Debug\ConstraintExamples.pdb

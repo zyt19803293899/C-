@@ -1,0 +1,5 @@
+C:\123data\_MyBooks\c#Beginner\apps\App07\App07\bin\Debug\App07.exe
+C:\123data\_MyBooks\c#Beginner\apps\App07\App07\bin\Debug\App07.pdb
+C:\123data\_MyBooks\c#Beginner\apps\App07\App07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\123data\_MyBooks\c#Beginner\apps\App07\App07\obj\x86\Debug\App07.exe
+C:\123data\_MyBooks\c#Beginner\apps\App07\App07\obj\x86\Debug\App07.pdb

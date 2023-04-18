@@ -1,0 +1,8 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\SimpleWpf2.Properties.Resources.resources
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\bin\Debug\SimpleWpf2.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\bin\Debug\SimpleWpf2.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\SimpleWpf2.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter17\SimpleWpf2\obj\x86\Debug\SimpleWpf2.pdb

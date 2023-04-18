@@ -1,0 +1,5 @@
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\app08-2\bin\Release\app08-2.exe
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\app08-2\bin\Release\app08-2.pdb
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\app08-2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\app08-2\obj\x86\Release\app08-2.exe
+E:\123data\dotnetproject\csharpBeginner\apps\chapter08\app08-2\obj\x86\Release\app08-2.pdb

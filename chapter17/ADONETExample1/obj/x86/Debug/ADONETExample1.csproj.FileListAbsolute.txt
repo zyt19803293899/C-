@@ -1,0 +1,9 @@
+C:\Users\budi2020\AppData\Local\Temporary Projects\ADONETExample1\bin\Debug\ADONETExample1.exe
+C:\Users\budi2020\AppData\Local\Temporary Projects\ADONETExample1\bin\Debug\ADONETExample1.pdb
+C:\Users\budi2020\AppData\Local\Temporary Projects\ADONETExample1\obj\x86\Debug\ADONETExample1.exe
+C:\Users\budi2020\AppData\Local\Temporary Projects\ADONETExample1\obj\x86\Debug\ADONETExample1.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\VisualStudio2010Express\App17\ADONETExample1\obj\x86\Debug\ADONETExample1.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\VisualStudio2010Express\App17\ADONETExample1\obj\x86\Debug\ADONETExample1.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\VisualStudio2010Express\App17\ADONETExample1\bin\Debug\ADONETExample1.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\VisualStudio2010Express\App17\ADONETExample1\bin\Debug\ADONETExample1.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\VisualStudio2010Express\App17\ADONETExample1\obj\x86\Debug\ADONETExample1.csprojResolveAssemblyReference.cache

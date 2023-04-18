@@ -1,0 +1,5 @@
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\StreamReaderExample\bin\Debug\StreamReaderExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\StreamReaderExample\bin\Debug\StreamReaderExample.pdb
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\StreamReaderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\StreamReaderExample\obj\x86\Debug\StreamReaderExample.exe
+C:\Users\budi2020\123data\_MyBooks\csharpBeginner\apps\chapter14\StreamReaderExample\obj\x86\Debug\StreamReaderExample.pdb
